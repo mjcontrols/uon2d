@@ -1,0 +1,19 @@
+NGUỒN HÌNH ẢNH
+
+Logo thương hiệu:
+- logo-mj.webp: logo MJ Việt Nam do chủ website cung cấp.
+- logo-phuong-hoang.webp: logo Phượng Hoàng Lửa, thương hiệu máy Trung Quốc do chủ website cung cấp.
+
+Các ảnh máy trong thư mục assets/images được tải về từ danh mục sản phẩm công khai của:
+
+1. https://www.mayduoisat.vn/
+2. https://www.mayduoisat.vn/sanpham/may-be-2d
+3. https://www.mayduoisat.vn/sanpham/may-duoi-sat
+4. https://www.mayduoisat.vn/sanpham/may-uon-tron
+5. https://www.mayduoisat.vn/sanpham/han-noi-dau
+
+Nội dung tham khảo bổ sung:
+- https://www.may2d.com/
+
+Ảnh đã được chuyển sang WebP và tối ưu dung lượng để sử dụng trong landing page.
+Ngày truy cập: 07/08/2026.
